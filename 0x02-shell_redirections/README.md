@@ -1,0 +1,6 @@
+-hell_world.sh prints out hello world
+-hellofile.sh.sh display content of /etc/passwd
+-twofiles.sh displays the content of the two files /etc/passwd and /etc/hosts
+-lastline.sh displays last 10 lines of /etc/passwd
+-firstline.sh Display the first 10 lines of /etc/passwd
+-third_line.sh displays a script that shows the third line of the file iacta.
